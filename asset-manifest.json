@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TP5-EFSI/static/css/main.ee1fd7f8.css",
+    "main.js": "/TP5-EFSI/static/js/main.32b012de.js",
+    "static/js/453.e6b0d321.chunk.js": "/TP5-EFSI/static/js/453.e6b0d321.chunk.js",
+    "index.html": "/TP5-EFSI/index.html",
+    "main.ee1fd7f8.css.map": "/TP5-EFSI/static/css/main.ee1fd7f8.css.map",
+    "main.32b012de.js.map": "/TP5-EFSI/static/js/main.32b012de.js.map",
+    "453.e6b0d321.chunk.js.map": "/TP5-EFSI/static/js/453.e6b0d321.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee1fd7f8.css",
+    "static/js/main.32b012de.js"
+  ]
+}
