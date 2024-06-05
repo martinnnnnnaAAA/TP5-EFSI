@@ -1,0 +1,23 @@
+@keyframes colorChange {
+    0% {
+        color: violet;
+    }
+
+    50% {
+        color: darkviolet;
+    }
+
+    100% {
+        color: violet;
+    }
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h1{
+    animation: colorChange 3s infinite;
+    text-align: center;
+    color: #e2cee5;
+}
